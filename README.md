@@ -1,2 +1,2 @@
-#  programs on C
+#  C programs 
 "First repository in github"
